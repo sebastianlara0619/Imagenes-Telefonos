@@ -21,4 +21,5 @@
 ## Samsung Galaxy A26
 <img width="373" height="381" alt="image" src="https://github.com/user-attachments/assets/9bef7ac7-4818-40bd-95f2-051886169404" />
 
-## 
+## Moto g 15
+<img width="313" height="327" alt="image" src="https://github.com/user-attachments/assets/d414e91a-8742-4724-b9ec-b31541212096" />
