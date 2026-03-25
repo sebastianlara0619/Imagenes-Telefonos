@@ -35,3 +35,6 @@
 
 ## Oppo A5
 <img width="214" height="224" alt="image" src="https://github.com/user-attachments/assets/2b620080-e226-4a16-8806-e7602fa7c8d7" />
+
+## Oppo A58
+<img width="214" height="235" alt="image" src="https://github.com/user-attachments/assets/119023c3-8a6d-479b-acef-e6f6b65075ba" />
