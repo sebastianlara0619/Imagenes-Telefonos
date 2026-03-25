@@ -38,3 +38,7 @@
 
 ## Oppo A58
 <img width="214" height="235" alt="image" src="https://github.com/user-attachments/assets/119023c3-8a6d-479b-acef-e6f6b65075ba" />
+
+## Realme C21Y
+<img width="333" height="340" alt="image" src="https://github.com/user-attachments/assets/426469cd-86e6-46e1-b996-c03b36066bf3" />
+
