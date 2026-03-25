@@ -23,3 +23,15 @@
 
 ## Moto g 15
 <img width="313" height="327" alt="image" src="https://github.com/user-attachments/assets/d414e91a-8742-4724-b9ec-b31541212096" />
+
+## Iphone 17
+<img width="220" height="225" alt="image" src="https://github.com/user-attachments/assets/322fb3a3-c748-49d4-bc5d-447b1e596148" />
+
+## Realme 71
+<img width="218" height="219" alt="image" src="https://github.com/user-attachments/assets/4339fb88-705f-454b-93e9-23cd8f13a5cc" />
+
+## Samsung Galaxy A07
+<img width="217" height="225" alt="image" src="https://github.com/user-attachments/assets/43792551-b6f4-49f4-bdeb-a78b0dc6f347" />
+
+## Oppo A5
+<img width="214" height="224" alt="image" src="https://github.com/user-attachments/assets/2b620080-e226-4a16-8806-e7602fa7c8d7" />
